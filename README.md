@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Pablo Wyss
+
+<span><img src="./assets/JavaScript.png" alt="JS" height="50 px"/></span>
+<span><img src="./assets/React.png" alt="REACT" height="50 px"/></span>
+<span><img src="./assets/Redux.png" alt="REDUX" height="50 px"/></span>
+<span><img src="./assets/Html.png" alt="HTML5" height="50 px"/></span>
+<span><img src="./assets/Python.png" alt="PYTHON" height="50 px"/></span>
+<span><img src="./assets/Django.png" alt="DJANGO" height="50 px"/></span>
+<span><img src="./assets/Docker.webp" alt="DOCKER" height="50 px"/></span>
+
+
+### Glad to see oyu here!
+
+## I am a full-stack programer and 
 
 <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloWyss" />
 
