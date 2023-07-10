@@ -11,8 +11,6 @@
 
 ### Glad to see oyu here!
 
-## I am a full-stack programer and 
-
 <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloWyss" />
 
 <!--
