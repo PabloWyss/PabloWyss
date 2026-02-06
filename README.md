@@ -7,7 +7,7 @@
 
 - 💻 I build web apps with **React and Django**
 - 🐳 I use **Docker** for clean dev environments
-- 📍 Based in Switzerland 
+- 📍 Based in Switzerland
 - 🌱 Always learning
 
 ---
@@ -26,27 +26,29 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Highlights
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloWyss&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloWyss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloWyss&theme=tokyo-night&hide_border=true" />
-</p>
+- ⚡ Full-stack apps with **React + Django**
+- 🧩 Strong focus on **clean UI + maintainable backend**
+- 🐳 Comfortable shipping with **Docker**
+- 🔧 Enjoy building real-world tools and automations
 
 ---
 
-## 🔥 Streak Stats
+## 📌 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PabloWyss&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloWyss&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PabloWyss&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PabloWyss&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PabloWyss&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PabloWyss&theme=tokyonight&utcOffset=1" />
 </p>
 
 ---
@@ -54,8 +56,6 @@
 ## 📫 Connect with me
 
 - GitHub: [PabloWyss](https://github.com/PabloWyss)
-- LinkedIn: (add link)
-- Portfolio: (add link)
 
 ---
 ⭐️ Thanks for visiting!
