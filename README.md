@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-- 💻 I build web apps with **React, Redux, Django**
+- 💻 I build web apps with **React and Django**
 - 🐳 I use **Docker** for clean dev environments
-- 📍 Based in Switzerland (edit if needed)
-- 🌱 Always learning and shipping
+- 📍 Based in Switzerland 
+- 🌱 Always learning
 
 ---
 
